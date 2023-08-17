@@ -149,5 +149,11 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#171722"
+  },
+  "background": {
+    "blur": 0.5,
+    "url":
+"https://github.com/sp4rkiee/Enmity-Themes/blob/main/Photos/dark-autumn-leaves.jpg",
+    "alpha": 0.65
   }
 }
