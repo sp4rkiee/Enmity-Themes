@@ -42,8 +42,8 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#6b705c",
-      "#ffffff"
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
     ],
     "BACKGROUND_SECONDARY": [
       "#171722",
